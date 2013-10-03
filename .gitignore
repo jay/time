@@ -1,1 +1,4 @@
 private/
+*.exe
+*.o
+*.obj
